@@ -6,14 +6,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=protocols&logoColor=white)
 
-> A backend category built with **Spring Boot** for managing users in a Salon Booking System. This microservice handles category registration, getting, searching, deleting via REST APIs.
+> A backend service built with **Spring Boot** for managing categories in a Salon Booking System. This microservice handles categories via REST APIs.
 
 ---
 
 ## 🚀 Features
 
 - ✅ Create a category (with validation)
-- 🧑 Category management (Update/Fetch user details)
+- 🧑 Category management (Update/Fetch details)
 
 ---
 
@@ -89,7 +89,7 @@ You can test APIs using:
 
 ## 📬 Contact
 
-📧 Email: your.email@example.com  
+📧 Email: hirumithakuladewanew@gmail.com  
 🌐 GitHub: [itz-Hiru](https://github.com/itz-Hiru)
 
 ---
